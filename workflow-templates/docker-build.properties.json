@@ -6,6 +6,6 @@
     "Continuous integration"
   ],
   "filePatterns": [
-    "Dockerfile"
+    "^Dockerfile$"
   ]
 }
