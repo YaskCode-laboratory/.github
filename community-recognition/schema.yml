@@ -1,0 +1,11 @@
+version: 1
+fields:
+  - project
+  - period
+  - repository_url
+  - published_at
+  - measured_at
+  - github_stars
+  - github_forks
+  - public_days
+  - recognition_status
