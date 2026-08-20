@@ -1,0 +1,12 @@
+{
+  "name": "YaskCode · Python CI",
+  "description": "Integración continua general para proyectos Python: dependencias, validación y pruebas cuando estén disponibles.",
+  "iconName": "octicon beaker",
+  "categories": [
+    "Continuous integration"
+  ],
+  "filePatterns": [
+    "^pyproject\\.toml$",
+    "^requirements.*\\.txt$"
+  ]
+}

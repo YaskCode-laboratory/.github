@@ -1,0 +1,36 @@
+name: YaskCode · Project Quality
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Revisar documentación y archivos recomendados
+        shell: bash
+        run: |
+          if [[ ! -f README.md ]]; then
+            echo "::warning::Se recomienda incluir un README.md en la raíz del proyecto."
+          fi
+          if ! find . -name 'PROJECT_PASSPORT.md' -print -quit | grep -q .; then
+            echo "::notice::Se recomienda incorporar el Project Passport cuando el proyecto esté listo."
+          fi
+          if find . -name '*.md' -type f -print0 | xargs -0 grep -nE '[[:blank:]]+$' >/dev/null; then
+            echo "::warning::Hay archivos Markdown con espacios al final de línea."
+          fi
+      - name: Avisar sobre archivos sensibles rastreados
+        shell: bash
+        run: |
+          matches=$(git ls-files | grep -E '(^|/)(\.env|\.env\..+|.+\.(pem|key))$' || true)
+          if [[ -n "$matches" ]]; then
+            echo "::warning::Revisa estos archivos rastreados por posibles datos sensibles:"
+            echo "$matches"
+          fi
