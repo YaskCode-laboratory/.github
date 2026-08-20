@@ -6,7 +6,7 @@
     "Continuous integration"
   ],
   "filePatterns": [
-    "README.md",
-    "*.md"
+    "^README\\.md$",
+    ".*\\.md$"
   ]
 }
