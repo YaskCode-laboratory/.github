@@ -1,0 +1,6 @@
+{
+  "name": "YaskCode · Node CI",
+  "description": "Integración continua adaptable para proyectos Node.js, JavaScript o TypeScript con test, lint y build opcionales.",
+  "iconName": "octicon workflow",
+  "categories": ["Continuous integration"]
+}
