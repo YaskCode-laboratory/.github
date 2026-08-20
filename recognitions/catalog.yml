@@ -1,0 +1,31 @@
+recognitions:
+  - id: engineering-quality
+    name: Engineering Quality
+    description: Prácticas coherentes de ingeniería en diseño, arquitectura, implementación y evolución técnica.
+    review_mode: human
+    automation_potential: low
+  - id: documentation-excellence
+    name: Documentation Excellence
+    description: Documentación clara y útil para comprender, ejecutar, estudiar y mantener el proyecto.
+    review_mode: human
+    automation_potential: medium
+  - id: testing-quality
+    name: Testing & Quality
+    description: Evidencia consistente de verificación, testing y calidad proporcional al proyecto.
+    review_mode: human
+    automation_potential: high_for_evidence
+  - id: security-practices
+    name: Security Practices
+    description: Prácticas responsables de seguridad, privacidad, dependencias y datos.
+    review_mode: human
+    automation_potential: medium_high_for_evidence
+  - id: open-education-ready
+    name: Open Education Ready
+    description: Preparación responsable para utilizar el proyecto como recurso educativo abierto.
+    review_mode: human
+    automation_potential: medium
+  - id: project-passport-complete
+    name: Project Passport Complete
+    description: Memoria técnica y académica suficiente mediante Project Passport proporcional.
+    review_mode: human
+    automation_potential: medium
