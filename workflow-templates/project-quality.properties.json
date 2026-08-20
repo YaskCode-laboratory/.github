@@ -2,5 +2,11 @@
   "name": "YaskCode · Project Quality",
   "description": "Revisión ligera y progresiva de documentación, Project Passport y posibles archivos sensibles.",
   "iconName": "octicon checklist",
-  "categories": ["Continuous integration"]
+  "categories": [
+    "Continuous integration"
+  ],
+  "filePatterns": [
+    "README.md",
+    "*.md"
+  ]
 }
