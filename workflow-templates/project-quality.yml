@@ -1,9 +1,10 @@
 name: YaskCode · Project Quality
 
 on:
-  pull_request:
   push:
-    branches: [main]
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
 
 permissions:
   contents: read
@@ -12,7 +13,7 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - name: Revisar documentación y archivos recomendados
         shell: bash
         run: |
