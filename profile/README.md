@@ -73,9 +73,9 @@ El seguimiento se realiza mediante GitHub Projects, Issues, Pull Requests, evide
 
 ## Documentación
 
-- [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md)
-- [Metodología de trabajo](../docs/METHODOLOGY.md)
-- [Estándares y principios](../docs/STANDARDS.md)
+| Marco y práctica | Institucional |
+| --- | --- |
+| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) |
 
 ---
 
