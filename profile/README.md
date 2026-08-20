@@ -6,44 +6,65 @@
 
 ### Construye · Aprende · Itera · Comparte
 
-**YaskCode Laboratory** es un laboratorio virtual para el aprendizaje guiado y el desarrollo de proyectos tecnológicos de pregrado y postgrado. Aquí, cada proyecto se convierte en una experiencia formativa: se diseña, construye, valida, documenta y comunica con prácticas profesionales de Ingeniería de Software.
+**YaskCode Laboratory** es un laboratorio virtual para el aprendizaje guiado y el desarrollo de proyectos tecnológicos de pregrado y postgrado. Cada proyecto se diseña, construye, valida, documenta y comunica con prácticas profesionales de Ingeniería de Software.
 
-Trabajamos con retos reales y evidencia verificable. El objetivo no es solamente entregar un producto: es aprender a construir conocimiento, tomar decisiones técnicas responsables y colaborar como en un entorno profesional.
-
-## Una experiencia de ingeniería completa
-
-El laboratorio integra el **Marco de Ingeniería YaskCode** para acompañar el proceso de principio a fin:
+## Marco de Ingeniería YaskCode
 
 | Diseñar | Construir | Verificar | Compartir |
 | --- | --- | --- | --- |
 | Problema, requisitos, arquitectura y datos. | Iteraciones ágiles, GitHub Projects, código y automatización. | Testing, CI/CD, seguridad, revisión y métricas. | Documentación, autoría, trazabilidad y publicación responsable. |
 
-Las decisiones se registran, los avances se hacen visibles y el aprendizaje se evalúa tanto en el producto como en el proceso que permitió crearlo.
+**Gestión ágil:** `Backlog → Ready → In Progress → Review → Done`. El trabajo se hace visible con Issues, GitHub Projects, ramas y pull requests; el aprendizaje se evalúa tanto en el producto como en el proceso.
 
-## Prácticas que guían el laboratorio
+## Áreas del laboratorio
 
-- **Metodologías ágiles:** planificación por iteraciones, retrospectivas y mejora continua.
-- **Gestión del trabajo:** GitHub Issues, GitHub Projects, pull requests y revisión colaborativa.
-- **Ingeniería de Software:** requisitos, diseño, arquitectura, patrones, documentación y trazabilidad.
-- **Calidad y entrega:** testing, integración y entrega continua (CI/CD), revisión de código y automatización.
-- **Seguridad:** principios de desarrollo seguro, gestión responsable de dependencias y análisis de riesgos.
-- **Métricas:** evidencia de calidad, cobertura, flujo de trabajo y aprendizaje.
+| Familia | Enfoque |
+| --- | --- |
+| Ingeniería y arquitectura | Requisitos, diseño, patrones y decisiones técnicas. |
+| Desarrollo de software | Implementación, colaboración y prácticas de código. |
+| Datos e inteligencia artificial | Datos, analítica, ML, RAG y sistemas inteligentes. |
+| Calidad, testing y seguridad | Pruebas, CI/CD, DevSecOps y gestión de riesgos. |
+| Plataformas y cloud | Servicios, automatización, despliegue y observabilidad. |
+| Investigación e innovación | Prototipos, evidencia, evaluación y nuevo conocimiento. |
+| Educación abierta y comunicación | Documentación, autoría, publicación responsable y difusión. |
+
+## Semestre actual
+
+| Estado | Próximo recorrido |
+| --- | --- |
+| En preparación | Los equipos, retos, hitos y repositorios se habilitarán para la cohorte correspondiente. |
 
 ## Project Passport
 
-Cada equipo mantiene un **Project Passport**: una bitácora estructurada que reúne la intención del proyecto, sus decisiones, evidencias, resultados y fuentes. Este pasaporte permite comprender no solo *qué* se construyó, sino *por qué*, *cómo* y con qué criterios se validó.
+Cada equipo mantiene un **Project Passport**: una bitácora de propósito, decisiones, evidencias, resultados, fuentes y aprendizajes. Conecta el trabajo cotidiano con la evaluación y prepara una comunicación académica y profesional responsable.
 
-El Project Passport conecta el trabajo cotidiano con la evaluación, facilita la continuidad entre iteraciones y prepara los proyectos para una comunicación académica y profesional responsable.
+## Proyectos destacados
 
-## Conocimiento abierto, con responsabilidad
+> **Próximamente.** Esta sección está preparada para proyectos que, después de evaluación, revisión, consentimiento de autoría y preparación, estén listos para compartirse públicamente.
 
-Durante el semestre, los proyectos permanecen **privados** para proteger el proceso formativo, la retroalimentación y el trabajo de cada equipo. Después de la evaluación, algunos podrán hacerse públicos cuando hayan completado revisión, preparación, consentimiento de autoría y las condiciones de publicación aplicables.
+## Del laboratorio al conocimiento abierto
 
-Las publicaciones seleccionadas podrán contribuir a educación abierta, investigación y generación de nuevo conocimiento. Abrir un proyecto no es un paso automático: es una decisión consciente, documentada y respetuosa de las personas, las fuentes y el contexto.
+Los proyectos permanecen **privados durante el semestre**. Al concluir, algunos pueden prepararse para educación abierta, investigación y generación de nuevo conocimiento. El archivo por semestres preservará el contexto, la autoría y las condiciones de publicación de cada experiencia.
 
-## Fundamentos y referencias
+## Estándares de ingeniería
 
-El laboratorio toma como referencia el cuerpo de conocimiento **SWEBOK**, estándares **ISO/IEC/IEEE** y prácticas contemporáneas de ingeniería. Adaptamos estos referentes a un contexto educativo sin perder rigor técnico, trazabilidad ni responsabilidad profesional.
+SWEBOK y estándares **ISO/IEC/IEEE** orientan el rigor técnico: ciclo de vida, requisitos, arquitectura, calidad SQuaRE, testing, seguridad, métricas e IA responsable. Se aplican con proporcionalidad educativa, no como certificación.
+
+## Liderazgo académico y técnico
+
+El laboratorio articula docencia, investigación y práctica profesional. Acompaña a los equipos con criterios de ingeniería, revisión formativa y una cultura de colaboración, evidencia y mejora continua.
+
+## Ecosistema YaskCode
+
+| Espacio | Propósito |
+| --- | --- |
+| **YaskCode Academy** | Formación y rutas de aprendizaje. |
+| **YaskCode Laboratory** | Proyectos guiados y práctica de ingeniería. |
+| **YaskCode Research** | Investigación y generación de conocimiento. |
+| **YaskCode Community** | Conversación, apoyo y colaboración. |
+| **YaskCode Slides** | Presentaciones y recursos compartibles. |
+
+## Documentación
 
 - [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md)
 - [Metodología de trabajo](../docs/METHODOLOGY.md)
