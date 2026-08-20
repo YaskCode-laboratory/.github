@@ -49,6 +49,12 @@ Esta colección reconocerá proyectos públicos seleccionados por su valor técn
 
 [Conoce los criterios de selección](../docs/FEATURED_PROJECTS.md)
 
+## Reconocimientos
+
+Los proyectos públicos pueden recibir reconocimientos YaskCode Laboratory por fortalezas verificables en ingeniería, testing, documentación, seguridad, educación abierta y trazabilidad.
+
+[Conoce el sistema de reconocimientos](../docs/RECOGNITIONS.md)
+
 ## Del laboratorio al conocimiento abierto
 
 Los proyectos permanecen **privados durante el semestre**. Al concluir, algunos pueden prepararse para educación abierta, investigación y generación de nuevo conocimiento. El archivo por semestres preservará el contexto, la autoría y las condiciones de publicación de cada experiencia.
@@ -77,7 +83,7 @@ El seguimiento se realiza mediante GitHub Projects, Issues, Pull Requests, evide
 
 | Marco y práctica | Institucional |
 | --- | --- |
-| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) · [Featured Projects](../docs/FEATURED_PROJECTS.md) |
+| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) · [Featured Projects](../docs/FEATURED_PROJECTS.md) · [Reconocimientos](../docs/RECOGNITIONS.md) |
 
 ---
 
