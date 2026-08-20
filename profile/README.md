@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="assets/hero-yaskcode-laboratory.png" alt="Ilustración del entorno virtual de YaskCode Laboratory" width="100%">
+  <img src="https://raw.githubusercontent.com/YaskCode-laboratory/.github/main/profile/assets/hero-yaskcode-laboratory.png" alt="Banner de YaskCode Laboratory" width="100%">
 </p>
 
-# YaskCode Laboratory
+**Un laboratorio virtual para el aprendizaje guiado y el desarrollo de proyectos tecnológicos de pregrado y postgrado.**
 
-### Construye · Aprende · Itera · Comparte
-
-**YaskCode Laboratory** es un laboratorio virtual para el aprendizaje guiado y el desarrollo de proyectos tecnológicos de pregrado y postgrado. Cada proyecto se diseña, construye, valida, documenta y comunica con prácticas profesionales de Ingeniería de Software.
+Cada proyecto se diseña, construye, valida, documenta y comunica con prácticas profesionales de Ingeniería de Software.
 
 ## Marco de Ingeniería YaskCode
 
@@ -33,8 +31,8 @@
 | Aspecto | Información |
 | --- | --- |
 | Período | **2026-I** |
-| Asignatura | **Sistemas Inteligentes** |
 | Nivel | **Postgrado** |
+| Asignatura | **Sistemas Inteligentes** |
 | Modalidad | **6 equipos** |
 | Iteraciones | **3 Sprints + Proyecto Final** |
 | Estado | **En desarrollo** |
@@ -57,9 +55,11 @@ Los proyectos permanecen **privados durante el semestre**. Al concluir, algunos 
 
 SWEBOK y estándares **ISO/IEC/IEEE** orientan el rigor técnico: ciclo de vida, requisitos, arquitectura, calidad SQuaRE, testing, seguridad, métricas e IA responsable. Se aplican con proporcionalidad educativa, no como certificación.
 
-## Liderazgo académico y técnico
+## Liderazgo académico y técnico · Tech Lead
 
-El laboratorio articula docencia, investigación y práctica profesional. Acompaña a los equipos con criterios de ingeniería, revisión formativa y una cultura de colaboración, evidencia y mejora continua.
+La dirección del laboratorio asume un rol de **Tech Lead académico**, acompañando a los equipos durante el semestre en la planificación, arquitectura, decisiones técnicas, revisión de código, calidad, testing, seguridad y evolución del producto.
+
+El seguimiento se realiza mediante GitHub Projects, Issues, Pull Requests, evidencias técnicas y Project Passport, combinando evaluación formativa con prácticas profesionales de ingeniería.
 
 ## Ecosistema YaskCode
 
