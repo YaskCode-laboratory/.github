@@ -1,9 +1,10 @@
 name: YaskCode · Docker Build
 
 on:
-  pull_request:
   push:
-    branches: [main]
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
 
 permissions:
   contents: read
@@ -12,12 +13,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - name: Confirmar Dockerfile
         run: test -f Dockerfile
-      - uses: docker/setup-buildx-action@v3
+      - uses: docker/setup-buildx-action@v4
       - name: Verificar construcción de la imagen
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@v7
         with:
           context: .
           push: false
