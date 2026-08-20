@@ -1,0 +1,6 @@
+{
+  "name": "YaskCode · Docker Build",
+  "description": "Verifica que un proyecto con Dockerfile pueda construir su imagen, sin publicar ni desplegar.",
+  "iconName": "octicon container",
+  "categories": ["Continuous integration"]
+}
