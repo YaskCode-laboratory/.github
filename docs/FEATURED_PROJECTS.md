@@ -6,7 +6,7 @@ Featured Projects es una selección institucional de proyectos **públicos** de 
 
 **Featured Project ≠ mejor calificación.**
 
-**Featured Project ≠ proyecto con más GitHub Stars.**  
+**Featured Project ≠ proyecto con más GitHub Stars.**
 **Featured Project = proyecto seleccionado por su valor como experiencia pública de ingeniería y aprendizaje.**
 
 ## Principios de selección
