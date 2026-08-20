@@ -20,19 +20,26 @@
 
 | Familia | Enfoque |
 | --- | --- |
-| Ingeniería y arquitectura | Requisitos, diseño, patrones y decisiones técnicas. |
-| Desarrollo de software | Implementación, colaboración y prácticas de código. |
-| Datos e inteligencia artificial | Datos, analítica, ML, RAG y sistemas inteligentes. |
-| Calidad, testing y seguridad | Pruebas, CI/CD, DevSecOps y gestión de riesgos. |
-| Plataformas y cloud | Servicios, automatización, despliegue y observabilidad. |
-| Investigación e innovación | Prototipos, evidencia, evaluación y nuevo conocimiento. |
-| Educación abierta y comunicación | Documentación, autoría, publicación responsable y difusión. |
+| Ingeniería de Software y Sistemas de Información | Requisitos, arquitectura, diseño, desarrollo y gestión de soluciones. |
+| Inteligencia Artificial y Sistemas Inteligentes | Agentes, RAG, Ingeniería del Conocimiento y sistemas basados en IA. |
+| Datos, Bases de Datos y Analítica | Modelado, gestión, análisis y aprovechamiento responsable de datos. |
+| Modelado, Simulación y Computación Científica | Modelos, experimentación, simulación y análisis computacional. |
+| Computación en la Nube y Computación Acelerada | Servicios cloud, automatización, despliegue y cómputo de alto rendimiento. |
+| Interacción Humano–Computador y Experiencia de Usuario | Diseño centrado en personas, accesibilidad, usabilidad y evaluación UX. |
+| Tecnologías Emergentes | Exploración crítica de tecnologías, prototipos e innovación aplicada. |
 
 ## Semestre actual
 
-| Estado | Próximo recorrido |
+| Aspecto | Información |
 | --- | --- |
-| En preparación | Los equipos, retos, hitos y repositorios se habilitarán para la cohorte correspondiente. |
+| Período | **2026-I** |
+| Asignatura | **Sistemas Inteligentes** |
+| Nivel | **Postgrado** |
+| Modalidad | **6 equipos** |
+| Iteraciones | **3 Sprints + Proyecto Final** |
+| Estado | **En desarrollo** |
+
+RAG, Ingeniería del Conocimiento, GitHub Projects, testing, evaluación y documentación guían el recorrido de la cohorte.
 
 ## Project Passport
 
