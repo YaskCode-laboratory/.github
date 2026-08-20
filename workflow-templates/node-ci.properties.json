@@ -6,6 +6,6 @@
     "Continuous integration"
   ],
   "filePatterns": [
-    "package.json"
+    "^package\\.json$"
   ]
 }
