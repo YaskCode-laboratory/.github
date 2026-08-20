@@ -45,7 +45,9 @@ Cada equipo mantiene un **Project Passport**: una bitácora de propósito, decis
 
 ## Proyectos destacados
 
-> **Próximamente.** Esta sección está preparada para proyectos que, después de evaluación, revisión, consentimiento de autoría y preparación, estén listos para compartirse públicamente.
+Esta colección reconocerá proyectos públicos seleccionados por su valor técnico, educativo y documental después de evaluación, revisión y preparación para publicación.
+
+[Conoce los criterios de selección](../docs/FEATURED_PROJECTS.md)
 
 ## Del laboratorio al conocimiento abierto
 
@@ -75,7 +77,7 @@ El seguimiento se realiza mediante GitHub Projects, Issues, Pull Requests, evide
 
 | Marco y práctica | Institucional |
 | --- | --- |
-| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) |
+| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) · [Featured Projects](../docs/FEATURED_PROJECTS.md) |
 
 ---
 
