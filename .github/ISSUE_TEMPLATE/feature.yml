@@ -1,0 +1,53 @@
+name: Funcionalidad
+description: Proponer una capacidad nueva o una mejora funcional.
+title: "[Funcionalidad] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe una unidad de trabajo coherente. No publiques secretos, datos personales ni enlaces privados.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+      description: ¿Qué se busca lograr?
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: Problema o necesidad
+      description: ¿Qué situación aborda?
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Criterios de aceptación
+      description: Incluye evidencia esperada cuando corresponda.
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencias
+      description: Issues, decisiones o recursos relacionados, si existen.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencias esperadas
+  - type: input
+    id: documentation
+    attributes:
+      label: Documentación relacionada
+  - type: input
+    id: sprint
+    attributes:
+      label: Sprint
+      description: Cuando corresponda.
