@@ -10,9 +10,9 @@ Los reconocimientos identifican cualidades específicas demostradas por proyecto
 | Featured Project | Selección institucional integral de una experiencia especialmente valiosa. |
 | Community Recognition | Futura capa basada en recepción pública. |
 
-**Recognition ≠ Achievement oficial de GitHub.**  
-**Recognition ≠ calificación.**  
-**Recognition ≠ ranking.**  
+**Recognition ≠ Achievement oficial de GitHub.**
+**Recognition ≠ calificación.**
+**Recognition ≠ ranking.**
 **Recognition ≠ GitHub Stars.**
 
 ## Catálogo V1
