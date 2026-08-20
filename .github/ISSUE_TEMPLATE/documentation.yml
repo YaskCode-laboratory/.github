@@ -1,0 +1,33 @@
+name: Documentación
+description: Proponer o registrar una mejora documental.
+title: "[Documentación] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Úsalo para README, Project Passport, arquitectura, ADR, guías, evidencias o documentación técnica.
+  - type: input
+    id: document
+    attributes:
+      label: Documento afectado
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Información que debe actualizarse
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Criterio de terminación
+      description: Indica qué evidencia demostrará que la actualización está completa.
+    validations:
+      required: true

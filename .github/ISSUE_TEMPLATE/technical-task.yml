@@ -1,0 +1,45 @@
+name: Tarea técnica
+description: Registrar trabajo de infraestructura, arquitectura, calidad o mantenimiento.
+title: "[Tarea técnica] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Úsalo para infraestructura, arquitectura, refactor, CI/CD, base de datos, configuración, seguridad o mantenimiento técnico.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_work
+    attributes:
+      label: Trabajo propuesto
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Criterios de aceptación
+      description: Incluye evidencia esperada cuando corresponda.
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Riesgos
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencias
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencias
