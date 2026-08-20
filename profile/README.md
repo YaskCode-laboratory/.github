@@ -55,6 +55,12 @@ Los proyectos públicos pueden recibir reconocimientos YaskCode Laboratory por f
 
 [Conoce el sistema de reconocimientos](../docs/RECOGNITIONS.md)
 
+## Comunidad
+
+Los proyectos públicos también pueden generar interés orgánico en GitHub. Las Stars se interpretan como señal de recepción comunitaria, independiente de la evaluación académica y de los reconocimientos técnicos.
+
+[Conoce cómo interpretamos la recepción comunitaria](../docs/COMMUNITY_RECOGNITION.md)
+
 ## Del laboratorio al conocimiento abierto
 
 Los proyectos permanecen **privados durante el semestre**. Al concluir, algunos pueden prepararse para educación abierta, investigación y generación de nuevo conocimiento. El archivo por semestres preservará el contexto, la autoría y las condiciones de publicación de cada experiencia.
@@ -83,7 +89,7 @@ El seguimiento se realiza mediante GitHub Projects, Issues, Pull Requests, evide
 
 | Marco y práctica | Institucional |
 | --- | --- |
-| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) · [Featured Projects](../docs/FEATURED_PROJECTS.md) · [Reconocimientos](../docs/RECOGNITIONS.md) |
+| [Proceso de ingeniería](../docs/ENGINEERING_PROCESS.md) · [Metodología de trabajo](../docs/METHODOLOGY.md) · [Estándares y principios](../docs/STANDARDS.md) · [CI/CD y automatización](../docs/CI_CD.md) | [Project Passport](../docs/PROJECT_PASSPORT.md) · [Educación abierta](../docs/OPEN_EDUCATION_POLICY.md) · [Autoría y publicación](../docs/AUTHORSHIP_AND_PUBLICATION.md) · [Gobernanza](../GOVERNANCE.md) · [Archivo por semestres](../docs/SEMESTER_ARCHIVE.md) · [Starter Kit de proyectos](../docs/STUDENT_PROJECT_STARTER_KIT.md) · [Featured Projects](../docs/FEATURED_PROJECTS.md) · [Reconocimientos](../docs/RECOGNITIONS.md) · [Reconocimiento comunitario](../docs/COMMUNITY_RECOGNITION.md) |
 
 ---
 
