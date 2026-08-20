@@ -1,0 +1,58 @@
+name: Experimento técnico
+description: Evaluar alternativas, prototipos o hipótesis técnicas de forma controlada.
+title: "[Experimento] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Experimentar no significa introducir cambios directamente en producción. Registra decisiones relevantes en ADR y Project Passport cuando corresponda; no sustituye investigación científica formal de YaskCode Research.
+  - type: textarea
+    id: question
+    attributes:
+      label: Pregunta o hipótesis
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas a evaluar
+      description: Tecnologías, algoritmos, configuraciones, estrategias o arquitecturas.
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Métricas o criterios
+    validations:
+      required: true
+  - type: textarea
+    id: procedure
+    attributes:
+      label: Procedimiento
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencia esperada
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Resultado
+  - type: dropdown
+    id: decision
+    attributes:
+      label: Decisión derivada
+      options:
+        - Adoptar
+        - Descartar
+        - Repetir
+        - Investigar más
