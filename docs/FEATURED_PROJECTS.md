@@ -2,8 +2,10 @@
 
 Featured Projects es una selección institucional de proyectos **públicos** de YaskCode Laboratory con valor especial como ejemplos de aprendizaje, ingeniería, experimentación tecnológica o educación abierta.
 
-**Featured Project ≠ mejor estudiante.**  
-**Featured Project ≠ mejor calificación.**  
+**Featured Project ≠ mejor estudiante.**
+
+**Featured Project ≠ mejor calificación.**
+
 **Featured Project ≠ proyecto con más GitHub Stars.**  
 **Featured Project = proyecto seleccionado por su valor como experiencia pública de ingeniería y aprendizaje.**
 
